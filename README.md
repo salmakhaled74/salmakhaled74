@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salma Khaled Mohamed</h1>
-<h3 align="center">An ungraduated Computer Science student</h3>
+<h3 align="center">An ungraduate Computer Science student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
